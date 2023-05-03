@@ -2,7 +2,7 @@
 
 ctrl_c ()
 {
-  echo -e "\n\n[x] Quitting.."
+  echo -e "\n\n[x] Exiting.."
   exit 1
 }
 

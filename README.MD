@@ -6,7 +6,7 @@ Educational purposes only.
 
 ## xmlrpc
 
-Script to abuse an exposed xmlrpc file to brute force against a known user. **The rockyou.txt dictionary is used in the script.**
+Script to abuse an exposed xmlrpc file to brute force against a known user. **The <ins>rockyou</ins> dictionary is used in the script.** By default, the dictionary is in the /usr/share/wordlists/ directory.
 
 **IMPORTANT: You have to change the URL in the script itself. For testing purposes, the attack is currently done against localhost on the port 31337.** 
 
